@@ -1,0 +1,72 @@
+Welcome to anthonyg's Gopherspace!
+
+0Welcome	hello.txt
+0What is Gopher?	gopher.txt
+
+--- Documents ---
+
++++ UNIX Stuff +++
+Books related to UNIX and anything of historical computing interest
+9The Unix Programming Environment - K&P (PDF) 	docs/unixprogenv.pdf
+9The C Programming Language - 2nd Ed K&R (PDF)	docs/clanguage.pdf
+9Advanced UNIX Programming - 2nd Ed (PDF)	docs/advancedunixprog.pdf
+9Advanced Programming in the UNIX Env 3rd Ed (PDF)	docs/adprogenv.pdf
+9The Design of the UNIX Operating System (PDF)	docs/designunixos.pdf
+9Life With Unix - Libes (PDF)	docs/lifeunix.pdf
+9The Unix Hater's Handbook (PDF)	docs/unixhaters.pdf
+9Expert C Programming - Linden (PDF)	docs/expertc.pdf
+9The Linux Programming Interface (PDF)	docs/linuxif.pdf
+9The Art of Unix Programming - Raymond (PDF)	docs/artunix.pdf
+9Modern Operating Systems 4th Ed - Tanenbaum (PDF)	docs/modernos.pdf
+9UNIX Programmer's Manual - 7th Ed. Vol 1 (PDF)	docs/v7vol1.pdf
+9UNIX Programmer's Manual - 7th Ed. Vol 2a (PDF)	docs/v7vol2a.pdf
+9UNIX Programmer's Manual - 7th Ed. Vol 2b (PDF)	docs/v7vol2b.pdf
+9UNIX and Linux Sys Admin Handbook 4th (PDF)	docs/unixsysadmin.pdf
+9The Standard C Library - Plauger (DJVU)	docs/standardc.djvu
+9C in a Nutshell  - O'Reilly (PDF)	docs/cnutshell.pdf
+9Unix Power Tools - O'Reilly (PDF)	docs/unixpowertools.pdf
+9The Practice of Programming - K&P (DJVU)	docs/practiceprog.djvu
+9The Elements of Programming Style - K&P (DJVU)	docs/elementsprog.djvu
+9The Design and Implementation of the 4.4 BSD Operating System - McKusick et al. (PDF)	docs/design44bsd.pdf
+
++++  Computer Science +++
+Classic works of Computer Science
+9The Art of Computer Programming, Vol 1 - Knuth (PDF)	docs/taocpv1.pdf
+9The Art of Computer Programming, Vol 2 - Knuth (PDF)	docs/taocpv2.pdf
+9The Art of Computer Programming, Vol 3 - Knuth (PDF)	docs/taocpv3.pdf
+9The Art of Computer Programming, Vol 4a - Kunth (PDF)	docs/taocpv4a.pdf
+9Compilers: Principles, Techniques, and Tools (Dragon Book), 2nd Edition - Aho (PDF) 	docs/dragonbook.pdf
+
+--- SDF ---
+
++++ Interesting Reads +++
+hWord Processors: Stupid and Inefficient	URL:http://ricardo.ecn.wfu.edu/~cottrell/wp.html
+
++++ Hacker Culture +++
+0The Jargon File 4.4.7 (2003)	docs/jargon-4.4.7.dos.txt
+
++++ Humor +++
+0Ed - The Standard Editor	humor/ed.txt
+0Real Programmers Don't Use PASCAL	humor/real_programmers.txt
+0Fortune	bin/fortune.cgi
+
++++ Blogs That I Like +++
+1Slugmax's Phlog	/users/slugmax	sdf.org
+
++++ Gopher Stuff +++
+9Alberti's "Rise and Fall of Gopher" Paper (PDF)	docs/Internet-Gopher-PPL-Alberti.pdf
+0Alberti's "Rise and Fall of Gopher" Paper (TXT)	docs/Internet-Gopher-PPL-Alberti.txt
+0RFC 1436 - The Gopher Protocol (TXT)	docs/rfc1436.txt
+
++++ General Links +++
+1SDF Gopher Directory	/	sdf.org	70
+1Floodgap's Gopher Server	/	gopher.floodgap.com
+hThe Overbite Project (HTML)	URL:http://gopher.floodgap.com/overbite
+hDuckDuckGo Search	URL:https://duckduckgo.com
+hMy HTTP Website	URL:http://anthonyg.sdf.org
+
+
+Questions? Comments? Email Anthony at anthonyg AT sdf dot org
+
+> GOPHER hosting courtesy of SDF Public Access UNIX System
+

@@ -1,0 +1,20 @@
+Gopher & Gopherspace
+---------------------------------------------------------------------
+
+ "Gopher" - in this case - is an information service, network
+ protocol, and distributed document delivery system which uses a
+ hierarchical file structure that transcends system architectures
+ to deliver files and documents.
+
+ A "network protocol" is a set of instructions by which one computer
+ connects to other computers on a network. The computer in which
+ a Gopher resides does so with other networked computers so the
+ Gopher can deliver documents to them.
+
+ Gopher is also an online "space" that is free of advertising and
+ commercialism. Because it doesn't use "cookies," display images,
+ support Flash, Java or Java-script, Gopher may be the last
+ commercial-free space on the Internet.
+
+---------------------------------------------------------------------
+ Created and Updated with the Vim Text Editor www.vim.org
